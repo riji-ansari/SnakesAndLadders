@@ -34,12 +34,4 @@ Welcome to the Snakes and Ladders game! This is a Java implementation of the cla
 
 If you wish to customize certain aspects of the game, you can modify the code in the `SnakesAndLadder.java` file. For example, you can modify the prompts for player names or modify the graphical elements of the GUI.
 
-## Contributions
-
-Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Let's make this Snakes and Ladders game even better together!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes.
-
 Enjoy playing the Snakes and Ladders game! Have fun and may luck be on your side as you climb ladders and avoid snakes on your path to victory.
